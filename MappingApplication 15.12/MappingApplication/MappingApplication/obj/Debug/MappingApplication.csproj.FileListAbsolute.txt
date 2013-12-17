@@ -1,0 +1,100 @@
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\App.g.cs
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\Pages\about.g.cs
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\Pages\Diary.g.cs
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\MainPage.g.cs
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\Pages\directions.g.cs
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\Pages\hosts.g.cs
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\MappingApplication.g.resources
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\MappingApplication.Resources.AppResources.resources
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\MappingApplication.csproj.GenerateResource.Cache
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\MappingApplication.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\MappingApplication.pdb
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\microsoft.advertising.mobile.ui.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\microsoft.advertising.mobile.ui.xml
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\MappingApplication.dll
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\MappingApplication.pdb
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\AppManifest.xaml
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\Bin\Debug\MappingApplication_Debug_AnyCPU.xap
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\XapCacheFile.xml
+C:\Users\MicheleG\documents\visual studio 2012\Projects\MappingApplication\MappingApplication\obj\Debug\MappingApplication.csprojResolveAssemblyReference.cache
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\MappingApplication.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\MappingApplication.pdb
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\AppManifest.xaml
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\MappingApplication_Debug_AnyCPU.xap
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\Microsoft.Advertising.Mobile.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\microsoft.advertising.mobile.ui.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\Microsoft.Phone.Controls.Maps.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\Microsoft.Advertising.Mobile.xml
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\microsoft.advertising.mobile.ui.xml
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\cs-CZ\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\da-DK\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\de-DE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\el-GR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\en-GB\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\es-ES\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\fi-FI\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\fr-FR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\hu-HU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\it-IT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\ja-JP\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\ko-KR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\nb-NO\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\nl-NL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\pl-PL\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\pt-BR\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\pt-PT\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\ru-RU\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\sv-SE\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\zh-CN\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\Bin\Debug\zh-TW\Microsoft.Advertising.Mobile.resources.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\MappingApplication.csprojResolveAssemblyReference.cache
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\App.g.cs
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\Pages\about.g.cs
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\Pages\Diary.g.cs
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\MainPage.g.cs
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\Pages\directions.g.cs
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\Pages\hosts.g.cs
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\MappingApplication.g.resources
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\MappingApplication.Resources.AppResources.resources
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\MappingApplication.csproj.GenerateResource.Cache
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\MappingApplication.dll
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\MappingApplication.pdb
+C:\Users\MicheleG\Desktop\MappingApplication 13.12\MappingApplication\MappingApplication\obj\Debug\XapCacheFile.xml
