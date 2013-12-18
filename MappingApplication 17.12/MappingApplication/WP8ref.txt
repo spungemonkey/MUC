@@ -1,0 +1,14 @@
+http://stackoverflow.com/questions/14797456/how-to-create-auto-scalling-image-lying-on-wp8-maps?rq=1
+
+http://stackoverflow.com/questions/16797036/rotating-pictures-on-overlay-with-map-via-slider-wp8
+
+http://stackoverflow.com/questions/16619123/windows-phone-8-map-overlay-region
+
+http://stackoverflow.com/questions/15726562/overlay-window-implementation-in-windows-phone
+
+
+
+http://social.msdn.microsoft.com/Forums/wpapps/en-US/f072c5ea-e8d7-4b2d-9d90-612ab8d448ec/load-an-image-control-at-runtime-from-a-png-in-my-project?forum=wpdevelop
+
+
+

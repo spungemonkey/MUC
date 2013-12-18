@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<VoiceCommands xmlns="http://schemas.microsoft.com/voicecommands/1.0">
+  <CommandSet xml:lang="en-gb" Name="MapApp">
+    <CommandPrefix>My Maps</CommandPrefix>
+    <Example> Open Main </Example>
+<!-- Implemented following instructions from video.ch9.ms/sessions/build/2012/3-050.pptx-->
+    <Command Name="Open Map">
+      <Example> Open Coursework </Example>  <!-- What is displayed on the listener-->
+      <ListenFor> Open [my] App</ListenFor> <!-- The phrase(s) the App listens for-->
+      <ListenFor> Open [MUC] Coursework</ListenFor> <!-- words in [square brackets] are optional-->
+      <ListenFor> Open Mapping Application</ListenFor>
+      <Feedback> Opening Maps... </Feedback> <!--What text is displayed to the user upon successful command-->
+      <Navigate Target="/MainPage.xaml"/> <!-- What the phone opens-->
+    </Command>
+
+    <Command Name="Open Diary">
+      <Example> Open Diary </Example>
+      <ListenFor> Open [my] Diary</ListenFor>
+      <ListenFor> Open [the] Diary</ListenFor>
+      <ListenFor> Open Diary Application</ListenFor>
+      <Feedback> Opening Diary... </Feedback>
+      <Navigate Target="/Pages/Diary.xaml"/>
+    </Command>
+
+    <Command Name="Open Hosts">
+      <Example> Open Hosts </Example>
+      <ListenFor> Open [previous] hosts</ListenFor>
+      <ListenFor> Open [the] hosts</ListenFor>
+      <ListenFor> Open previous hosts</ListenFor>
+      <Feedback> Opening Previous Hosts... </Feedback>
+      <Navigate Target="/Pages/hosts.xaml"/>
+    </Command>
+    
+    
+  </CommandSet>
+</VoiceCommands>
